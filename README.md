@@ -1,0 +1,2 @@
+# SmallObj
+object
